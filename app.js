@@ -30,19 +30,7 @@ const reviews = [
   },
 ];
 
-//  <article class="review">
-//         <div class="img-container">
-//           <img src="person-1.jpeg" id="person-img" alt="" />
-//         </div>
-//         <h4 id="author">sara jones</h4>
-//         <p id="job">UX designer</p>
-//         <p id="info">
-//           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil,
-//           soluta. Blanditiis aut porro, impedit earum et laboriosam tenetur!
-//           Tenetur aspernatur quis id? Eius sint voluptates cum laborum maxime
-//           adipisci fugiat. Corrupti officia labore iure. Ex aliquam ipsam ea
-//           hic fuga!
-//         </p>
+
 
 let img = document.getElementById("person-img");
 let author = document.getElementById("author");
